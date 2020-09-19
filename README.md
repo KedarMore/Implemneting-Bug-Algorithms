@@ -1,6 +1,6 @@
 This code is written in Python3.
 
-run: python3 final.py
+#python3 final.py#
 
 It will ask you 3 questions:
 
