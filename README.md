@@ -41,3 +41,5 @@ To change the workspace write the positions of rectangles in the following forma
     W1O3=Polygon([(12,5),(13,5),(13,13),(12,13)])
     W1O4=Polygon([(6,5),(12,5),(12,6),(6,6)])
 ```
+
+and replace it in final.py
