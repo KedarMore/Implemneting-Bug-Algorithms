@@ -1,4 +1,4 @@
-<h1>BUG ALGORITHMS<h1>
+<h1>BUG ALGORITHMS</h1>
 
 ```
 python3 final.py
