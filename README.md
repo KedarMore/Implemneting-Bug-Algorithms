@@ -23,5 +23,11 @@ Ans: left or right
 
 Finally the code will print the total distance travelled by the Bug.
 
-<img src="https://github.com/KedarMore/Implemneting-Bug-Algorithms/blob/master/FilesForREADME/Workspace1Bug1.png"> <img src="https://github.com/KedarMore/Implemneting-Bug-Algorithms/blob/master/FilesForREADME/Workspace2Bug1.png">
-<img src="https://github.com/KedarMore/Implemneting-Bug-Algorithms/blob/master/FilesForREADME/Workspace1Bug2.png"> <img src="https://github.com/KedarMore/Implemneting-Bug-Algorithms/blob/master/FilesForREADME/Workspace2Bug2.png">
+<h3>Workspace1Bug1</h3>
+<img src="https://github.com/KedarMore/Implemneting-Bug-Algorithms/blob/master/FilesForREADME/Workspace1Bug1.png">
+<h3>Workspace2Bug1</h3>
+<img src="https://github.com/KedarMore/Implemneting-Bug-Algorithms/blob/master/FilesForREADME/Workspace2Bug1.png">
+<h3>Workspace1Bug2</h3>
+<img src="https://github.com/KedarMore/Implemneting-Bug-Algorithms/blob/master/FilesForREADME/Workspace1Bug2.png">
+<h3>Workspace2Bug2</h3>
+<img src="https://github.com/KedarMore/Implemneting-Bug-Algorithms/blob/master/FilesForREADME/Workspace2Bug2.png">
